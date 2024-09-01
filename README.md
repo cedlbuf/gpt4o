@@ -21,7 +21,7 @@ GPT-4o可通过ChatGPT Plus和Team版本使用，并将在未来推出企业版�
 目前，ChatGPT Plus用户可以直接使用GPT-4o，无需额外设置。如果你还没有账号，可以通过特殊方式快速开通并使用GPT-4o。
 
 1. 如果你已经拥有ChatGPT账号，可以立即升级到ChatGPT Plus，享受GPT-4o的全部功能。
-2. [WildCard虚拟卡](https://bit.ly/WildCardo)是目前最便捷的支付方式之一，可轻松订阅ChatGPT Plus，整个流程只需一分钟。
+2. [WildCard虚拟卡](https://bit.ly/WildCardo) 是目前最便捷的支付方式之一，可轻松订阅ChatGPT Plus，整个流程只需一分钟。
 
 ## 如何使用GPT-4o
 
@@ -35,7 +35,6 @@ GPT-4o可以通过OpenAI API访问，与其他版本相比，它的性能更为�
 - **速度更快**：处理速度比GPT-4 Turbo快2倍。
 - **多语言支持**：对非英语语言的支持显著增强。
 
-可以参考[ChatGPT API申请教程](https://bit.ly/WildCardo)获取详细步骤，快速开通使用权限。
 
 ## API请求限制
 
